@@ -1,0 +1,4 @@
+# add node modules folder and .env file to gitignore
+
+node_modules/
+.env
